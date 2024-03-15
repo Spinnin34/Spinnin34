@@ -48,9 +48,3 @@
 
 <br/>  
 
-## Could you give me a hug? 😊
-<center>
-<a href="http://huggle.jdf2.org/hug/YoSoyVillaa">
-     <img src="http://huggle.jdf2.org/sig/YoSoyVillaa.png">
-</a>
-</center>
