@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">A 18 years old guy that loves programming</h3>  
+<h1 align="center">Hi 👋, I'm Spinnin</h1>
+<h3 align="center">A 16 years old guy that loves programming</h3>  
 <br/>  
   
-- 🔭 Developer at [HyrexStudios](https://twitter.com/HyrexStudios)
+- 🔭 Developer at [Zestian](https://discord.gg/zestianmc)
+- 🔭 Developer at [Karmancos](https://karmancos.42web.io)
   
 
 - ❓ I'm currently learning Java & Kotlin and Minecraft related APIs (Spigot, PaperMC, Velocity, etc)
