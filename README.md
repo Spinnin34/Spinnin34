@@ -33,8 +33,9 @@
 <a href="https://github.com/yosoyvillaa" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
-  
-[![Discord Presence](https://lanyard.cnrad.dev/api/807665320088829973)](https://discord.com/users/807665320088829973)
+
+
+  [![Discord Presence](https://lanyard.cnrad.dev/api/807665320088829973)](https://discord.com/users/807665320088829973)
 </div>  
   
 
