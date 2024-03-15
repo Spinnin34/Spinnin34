@@ -34,7 +34,7 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
   
-[![Discord Presence](https://lanyard.cnrad.dev/api/845679457212825671)](https://discord.com/users/845679457212825671)
+[![Discord Presence](https://lanyard.cnrad.dev/api/845679457212825671)](https://discord.com/users/807665320088829973)
 </div>  
   
 
