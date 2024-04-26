@@ -28,31 +28,31 @@
 ## Work experience
 **Zestian**
 *Java plugin Developer*                                         2023 - Current
-Development of custom plugins for the server. Maintenance of existing plugins. Development of new functionalities.
+- Development of custom plugins for the server. Maintenance of existing plugins. Development of new functionalities.
 
 **Karmancos Studio**
 *Lead Developer & System Administrator*                                         2020 - Current
-I led the server development and configuration team. I managed the server systems and their infrastructure. Trained and mentored new team members.
+- I led the server development and configuration team. I managed the server systems and their infrastructure. Trained and mentored new team members.
 
 **MineHades**
 *Developer*                                                      2023 - 2023
-I helped in the development of the network and in the correction of bugs within it, in addition to contributing with the incorporation of new support plugins and help with the arrival of new versions.
+- I helped in the development of the network and in the correction of bugs within it, in addition to contributing with the incorporation of new support plugins and help with the arrival of new versions.
 
 **Lolamé Studio**
 *Lead Developer*                                                2023 - Royal
-I have dedicated myself to instructing and providing classes, as well as offering advice to the Lolame development team. In addition, it made efforts to improve its current structure, although so far I have not implemented drastic visual changes. However, in private Lolame projects, where he was involved, he had a significant impact thanks to my extensive experience and the substantial changes he made regarding React.
+- I have dedicated myself to instructing and providing classes, as well as offering advice to the Lolame development team. In addition, it made efforts to improve its current structure, although so far I have not implemented drastic visual changes. However, in private Lolame projects, where he was involved, he had a significant impact thanks to my extensive experience and the substantial changes he made regarding React.
 
 **TeamBrody**
 *Lead Developer*                                                2024 - Current
-I'm just getting started. I'm developing a core and helping with various event testing in the studio. In addition to that, I am guiding the development team to improve the work experience, as well as implementing custom plugins in the studio.
+- I'm just getting started. I'm developing a core and helping with various event testing in the studio. In addition to that, I am guiding the development team to improve the work experience, as well as implementing custom plugins in the studio.
 
 **Nea Network**
 *Lead Developer*                                                2023 - 2024
-I redesigned almost the entire network infrastructure, switching to the Velocity proxy, in addition to implementing premium membership systems and the integration of more than 19 custom plugins, creating a unique experience. It's a shame that the network had to close.
+- I redesigned almost the entire network infrastructure, switching to the Velocity proxy, in addition to implementing premium membership systems and the integration of more than 19 custom plugins, creating a unique experience. It's a shame that the network had to close.
 
 **Plugin Support**
 *Developer Helper*                                               2023 - Current
-Plugin support assistant, assisting in training people with the skills necessary to create Minecraft plugins.
+- Plugin support assistant, assisting in training people with the skills necessary to create Minecraft plugins.
 
 
 ## Contact with me
