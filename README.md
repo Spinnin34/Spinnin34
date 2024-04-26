@@ -26,7 +26,7 @@
 <br/>  
 
 ## Work experience
-<p>**Zestian**</p>
+<h3>Zestian</h3>
 *Java plugin Developer*                                         2023 - Current
 - Development of custom plugins for the server. Maintenance of existing plugins. Development of new functionalities.
 
