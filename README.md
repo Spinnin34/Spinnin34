@@ -27,31 +27,31 @@
 
 ## Work experience
 <h3>Zestian</h3>
-*Java plugin Developer*                                         2023 - Current
+Java plugin Developer                                         2023 - Current
 - Development of custom plugins for the server. Maintenance of existing plugins. Development of new functionalities.
 
 <h3>Karmancos Studio</h3>
-*Lead Developer & System Administrator*                                         2020 - Current
+Lead Developer & System Administrator                                        2020 - Current
 - I led the server development and configuration team. I managed the server systems and their infrastructure. Trained and mentored new team members.
 
 <h3>MineHades</h3>
-*Developer*                                                      2023 - 2023
+Developer                                                     2023 - 2023
 - I helped in the development of the network and in the correction of bugs within it, in addition to contributing with the incorporation of new support plugins and help with the arrival of new versions.
 
 <h3>Lolamé Studio</h3>
-*Lead Developer*                                                2023 - Royal
+Lead Developer                                                2023 - Royal
 - I have dedicated myself to instructing and providing classes, as well as offering advice to the Lolame development team. In addition, it made efforts to improve its current structure, although so far I have not implemented drastic visual changes. However, in private Lolame projects, where he was involved, he had a significant impact thanks to my extensive experience and the substantial changes he made regarding React.
 
 <h3>TeamBrody</h3>
-*Lead Developer*                                                2024 - Current
+Lead Developer                                                2024 - Current
 - I'm just getting started. I'm developing a core and helping with various event testing in the studio. In addition to that, I am guiding the development team to improve the work experience, as well as implementing custom plugins in the studio.
 
 <h3>Nea Network</h3>
-*Lead Developer*                                                2023 - 2024
+Lead Developer                                                2023 - 2024
 - I redesigned almost the entire network infrastructure, switching to the Velocity proxy, in addition to implementing premium membership systems and the integration of more than 19 custom plugins, creating a unique experience. It's a shame that the network had to close.
 
 <h3>Plugin Support</h3>
-*Developer Helper*                                               2023 - Current
+Developer Helper                                               2023 - Current
 - Plugin support assistant, assisting in training people with the skills necessary to create Minecraft plugins.
 
 
